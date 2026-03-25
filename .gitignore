@@ -1,0 +1,15 @@
+# Environment Variables - Contains API Keys
+.env
+
+# Virtual Environment
+chatbot_venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# System files
+.DS_Store
